@@ -1,8 +1,32 @@
-<h2 align="left">Hi 👋! My name is ... and I'm a ..., from ....</h2>
+<h3 align="left">¡Hola!👋 Soy Evenz, un desarrollador apasionado de Lima, Perú. Actualmente estoy desarrollando mis habilidades en Python, Django, HTML, CSS y JavaScript, con un interés creciente en React y Tailwind CSS.</h3>
 
 ###
 
-<img align="right" height="150" src="https://i.imgflip.com/65efzo.gif"  />
+<p align="left">📚 Me gusta explorar y crear soluciones backend, construir aplicaciones web dinámicas, y trabajar en proyectos prácticos para mejorar mis habilidades de programación.</p>
+
+###
+
+<p align="left">🚀 Mi objetivo es contribuir a proyectos desafiantes y seguir creciendo en el mundo del desarrollo web.</p>
+
+###
+
+<h3 align="left">Tecnologías y herramientas:</h3>
+
+###
+
+<p align="left">. Lenguajes: Python, JavaScript, HTML, CSS<br>. Frameworks: Django, React (aprendiendo)<br>. Base de datos: MySQL, SQLite<br>. Herramientas: Git, Visual Studio Code</p>
+
+###
+
+<p align="left">🎮 En mi tiempo libre, disfruto de los videojuegos y escuchar música, y siempre estoy buscando aprender algo nuevo sobre programación.</p>
+
+###
+
+<p align="left">💡 No dudes en explorar mis repositorios y contactarme para colaborar en proyectos o simplemente para hablar de tecnología.</p>
+
+###
+
+<img align="right" height="150" src="https://imgflip.com/gif/9hl89k"  />
 
 ###
 
