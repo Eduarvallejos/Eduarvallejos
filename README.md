@@ -30,6 +30,11 @@
 
 ###
 
+![Estadísticas de GitHub](https://github-readme-stats.vercel.app/api?username=Eduarvallejos&show_icons=true&theme=dracula)
+
+
+###
+
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="30" alt="javascript logo"  />
   <img width="12" />
