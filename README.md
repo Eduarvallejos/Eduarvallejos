@@ -1,11 +1,11 @@
 # ¡Hola! 👋 Soy Eduar
 #### Un desarrollador apasionado de Lima, Perú.  
 
-### Actualmente estoy desarrollando mis habilidades en **Python**, **Django**, **HTML**, **CSS** y **JavaScript**, con un interés creciente en **React** y **Tailwind CSS**. 
+#### Actualmente estoy desarrollando mis habilidades en **Python**, **Django**, **HTML**, **CSS** y **JavaScript**, con un interés creciente en **React** y **Tailwind CSS**. 
 
-### 📚 Me gusta explorar y crear soluciones backend, construir aplicaciones web dinámicas, y trabajar en proyectos prácticos para mejorar mis habilidades de programación.  
+## 📚 #### Me gusta explorar y crear soluciones backend, construir aplicaciones web dinámicas, y trabajar en proyectos prácticos para mejorar mis habilidades de programación.  
 
-### 🚀 **Mi objetivo es contribuir a proyectos desafiantes y seguir creciendo en el mundo del desarrollo web**.
+🚀 **Mi objetivo es contribuir a proyectos desafiantes y seguir creciendo en el mundo del desarrollo web**.
 
 ---
 
