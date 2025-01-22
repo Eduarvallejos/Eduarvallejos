@@ -10,15 +10,20 @@ Actualmente estoy desarrollando mis habilidades en **Python**, **Django**, **HTM
 ---
 
 ### 🛠️ Tecnologías y herramientas que uso:
-- **Lenguajes:** Python, JavaScript, HTML, CSS  
+- **Lenguajes:** C, Python, JavaScript, HTML, CSS  
 - **Frameworks:** Django, React (aprendiendo)  
-- **Base de datos:** MySQL, SQLite  
+- **Base de datos:** MySQL, SQLite, MongoDB
 - **Herramientas:** Git, Visual Studio Code  
 
 ---
 
 ### 🎮 Intereses:
 En mi tiempo libre, disfruto de los videojuegos y escuchar música. Siempre estoy buscando aprender algo nuevo sobre programación.
+
+---
+
+### 🌐 Mi página web:
+[Visita mi portafolio aquí]([https://tu-pagina-web.com](https://eduar-vallejos.onrender.com))
 
 ---
 
@@ -30,7 +35,7 @@ No dudes en explorar mis repositorios y contactarme para colaborar en proyectos 
 ###
 ![Estadísticas de GitHub](https://github-readme-stats.vercel.app/api?username=Eduarvallejos&show_icons=true&theme=radical)  ![Lenguajes más usados](https://github-readme-stats.vercel.app/api/top-langs/?username=Eduarvallejos&layout=compact&theme=radical)
 ##
-<img align="right" height="150" src="https://imgflip.com/gif/9hl89k"  />
+<img align="right" height="150" src="[https://imgflip.com/gif/9hl89k](https://www.google.com/search?q=gif+programando&client=opera-gx&sca_esv=115fbc7a5c2d88aa&udm=2&biw=1879&bih=974&sxsrf=ADLYWIJLeOn_DFWEMmxrlhWzNfb_6FvkTA%3A1737570218285&ei=qjeRZ76LEZ7OwbkPpqiUyAM&ved=0ahUKEwi-iIi9-YmLAxUeZzABHSYUBTkQ4dUDCBE&uact=5&oq=gif+programando&gs_lp=EgNpbWciD2dpZiBwcm9ncmFtYW5kbzIFEAAYgAQyBhAAGAgYHjIGEAAYCBgeSJg_ULYNWM0qcAF4AJABAJgBpAGgAegTqgEEMC4xNrgBA8gBAPgBAZgCD6AClBPCAgsQABiABBixAxiDAcICCBAAGIAEGLEDwgINEAAYgAQYsQMYQxiKBcICChAAGIAEGEMYigXCAg4QABiABBixAxiDARiKBcICChAAGIAEGLEDGArCAgcQABiABBgKwgIEEAAYHsICBhAAGAUYHpgDAIgGAZIHBDAuMTWgB4E_&sclient=img#vhid=Fd40SJkFTLv1KM&vssid=mosaic)"  />
 
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" height="30" alt="c logo"  />
