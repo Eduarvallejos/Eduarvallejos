@@ -1,29 +1,31 @@
-<h3 align="left">¡Hola!👋 Soy Evenz, un desarrollador apasionado de Lima, Perú. Actualmente estoy desarrollando mis habilidades en Python, Django, HTML, CSS y JavaScript, con un interés creciente en React y Tailwind CSS.</h3>
+# ¡Hola! 👋 Soy Eduar
+Un desarrollador apasionado de Lima, Perú.  
 
-###
+Actualmente estoy desarrollando mis habilidades en **Python**, **Django**, **HTML**, **CSS** y **JavaScript**, con un interés creciente en **React** y **Tailwind CSS**. 
 
-<p align="left">📚 Me gusta explorar y crear soluciones backend, construir aplicaciones web dinámicas, y trabajar en proyectos prácticos para mejorar mis habilidades de programación.</p>
+📚 Me gusta explorar y crear soluciones backend, construir aplicaciones web dinámicas, y trabajar en proyectos prácticos para mejorar mis habilidades de programación.  
 
-###
+🚀 **Mi objetivo es contribuir a proyectos desafiantes y seguir creciendo en el mundo del desarrollo web**.
 
-<p align="left">🚀 Mi objetivo es contribuir a proyectos desafiantes y seguir creciendo en el mundo del desarrollo web.</p>
+---
 
-###
+### 🛠️ Tecnologías y herramientas que uso:
+- **Lenguajes:** Python, JavaScript, HTML, CSS  
+- **Frameworks:** Django, React (aprendiendo)  
+- **Base de datos:** MySQL, SQLite  
+- **Herramientas:** Git, Visual Studio Code  
 
-<h3 align="left">Tecnologías y herramientas:</h3>
+---
 
-###
+### 🎮 Intereses:
+En mi tiempo libre, disfruto de los videojuegos y escuchar música. Siempre estoy buscando aprender algo nuevo sobre programación.
 
-<p align="left">. Lenguajes: Python, JavaScript, HTML, CSS<br>. Frameworks: Django, React (aprendiendo)<br>. Base de datos: MySQL, SQLite<br>. Herramientas: Git, Visual Studio Code</p>
+---
 
-###
+### 💡 ¡Colabora conmigo!
+No dudes en explorar mis repositorios y contactarme para colaborar en proyectos o simplemente para hablar de tecnología.
 
-<p align="left">🎮 En mi tiempo libre, disfruto de los videojuegos y escuchar música, y siempre estoy buscando aprender algo nuevo sobre programación.</p>
-
-###
-
-<p align="left">💡 No dudes en explorar mis repositorios y contactarme para colaborar en proyectos o simplemente para hablar de tecnología.</p>
-
+---
 
 ###
 ![Estadísticas de GitHub](https://github-readme-stats.vercel.app/api?username=Eduarvallejos&show_icons=true&theme=radical)  ![Lenguajes más usados](https://github-readme-stats.vercel.app/api/top-langs/?username=Eduarvallejos&layout=compact&theme=radical)
