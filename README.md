@@ -35,7 +35,7 @@
 ###
 ![Estadísticas de GitHub](https://github-readme-stats.vercel.app/api?username=Eduarvallejos&show_icons=true&theme=radical)  ![Lenguajes más usados](https://github-readme-stats.vercel.app/api/top-langs/?username=Eduarvallejos&layout=compact&theme=radical)
 ##
-<img align="right" height="150" src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExMzM3cmhhaWIyazJkMWJnY2FuYmptbnJmb2Vxamk5OWR3aWx1YTNjaCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/qgQUggAC3Pfv687qPC/giphy.gif"  />
+<img align="right" height="150" src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExNzR4cWNuMWphZHppZTExYWgzZTFyenN5dTVhamZtZW9lajV0cHQyaiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/Y4ak9Ki2GZCbJxAnJD/giphy.gif"  />
 
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" height="30" alt="c logo"  />
