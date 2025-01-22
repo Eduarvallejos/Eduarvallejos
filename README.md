@@ -10,7 +10,7 @@
 ---
 
 ### 🛠️ Tecnologías y herramientas que uso:
-- *Lenguajes:* C, Python, JavaScript, HTML, CSS  
+- ***Lenguajes:*** C, Python, JavaScript, HTML, CSS  
 - **Frameworks:** Django, React (aprendiendo)  
 - **Base de datos:** MySQL, SQLite, MongoDB
 - **Herramientas:** Git, Visual Studio Code  
