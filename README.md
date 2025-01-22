@@ -24,19 +24,13 @@
 
 <p align="left">💡 No dudes en explorar mis repositorios y contactarme para colaborar en proyectos o simplemente para hablar de tecnología.</p>
 
-###
-
-<img align="right" height="150" src="https://imgflip.com/gif/9hl89k"  />
-
-###
-
-<img align="right" height="150" src="https://i.imgflip.com/65efzo.gif"  />
 
 ###
 ![Estadísticas de GitHub](https://github-readme-stats.vercel.app/api?username=Eduarvallejos&show_icons=true&theme=radical)
-
+---
 ![Lenguajes más usados](https://github-readme-stats.vercel.app/api/top-langs/?username=Eduarvallejos&layout=compact&theme=radical)
 ##
+<img align="right" height="150" src="https://imgflip.com/gif/9hl89k"  />
 
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" height="30" alt="c logo"  />
@@ -96,4 +90,4 @@
 
 ###
 
-[![GitHub Streak](https://streak-stats.demolab.com/?user=Eduarvalllejos&theme=radical)](https://git.io/streak-stats)
+[![GitHub Streak](https://streak-stats.demolab.com/?user=Eduarvallejos&theme=radical)](https://git.io/streak-stats)
