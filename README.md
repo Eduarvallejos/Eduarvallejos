@@ -26,9 +26,7 @@
 
 
 ###
-![Estadísticas de GitHub](https://github-readme-stats.vercel.app/api?username=Eduarvallejos&show_icons=true&theme=radical)
----
-![Lenguajes más usados](https://github-readme-stats.vercel.app/api/top-langs/?username=Eduarvallejos&layout=compact&theme=radical)
+![Estadísticas de GitHub](https://github-readme-stats.vercel.app/api?username=Eduarvallejos&show_icons=true&theme=radical)  ![Lenguajes más usados](https://github-readme-stats.vercel.app/api/top-langs/?username=Eduarvallejos&layout=compact&theme=radical)
 ##
 <img align="right" height="150" src="https://imgflip.com/gif/9hl89k"  />
 
@@ -89,5 +87,4 @@
 
 
 ###
-
 [![GitHub Streak](https://streak-stats.demolab.com/?user=Eduarvallejos&theme=radical)](https://git.io/streak-stats)
