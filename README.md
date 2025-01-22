@@ -23,7 +23,7 @@ En mi tiempo libre, disfruto de los videojuegos y escuchar música. Siempre esto
 ---
 
 ### 🌐 Mi página web:
-[Visita mi portafolio aquí](https://tu-pagina-web.com](https://eduar-vallejos.onrender.com)
+[Visita mi portafolio aquí](https://eduar-vallejos.onrender.com)
 
 ---
 
