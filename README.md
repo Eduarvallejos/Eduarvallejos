@@ -3,14 +3,14 @@
 
 #### Actualmente estoy desarrollando mis habilidades en **Python**, **Django**, **HTML**, **CSS** y **JavaScript**, con un interés creciente en **React** y **Tailwind CSS**. 
 
-📚 #### Me gusta explorar y crear soluciones backend, construir aplicaciones web dinámicas, y trabajar en proyectos prácticos para mejorar mis habilidades de programación.  
+#### 📚 Me gusta explorar y crear soluciones backend, construir aplicaciones web dinámicas, y trabajar en proyectos prácticos para mejorar mis habilidades de programación.  
 
 🚀 **Mi objetivo es contribuir a proyectos desafiantes y seguir creciendo en el mundo del desarrollo web**.
 
 ---
 
 ### 🛠️ Tecnologías y herramientas que uso:
-- **Lenguajes:** C, Python, JavaScript, HTML, CSS  
+- *Lenguajes:* C, Python, JavaScript, HTML, CSS  
 - **Frameworks:** Django, React (aprendiendo)  
 - **Base de datos:** MySQL, SQLite, MongoDB
 - **Herramientas:** Git, Visual Studio Code  
@@ -18,17 +18,17 @@
 ---
 
 ### 🎮 Intereses:
-En mi tiempo libre, disfruto de los videojuegos y escuchar música. Siempre estoy buscando aprender algo nuevo sobre programación.
+#### En mi tiempo libre, disfruto de los videojuegos y escuchar música. Siempre estoy buscando aprender algo nuevo sobre programación.
 
 ---
 
 ### 🌐 Mi página web:
-[Visita mi portafolio aquí](https://eduar-vallejos.onrender.com)
+#### [Visita mi portafolio aquí](https://eduar-vallejos.onrender.com)
 
 ---
 
 ### 💡 ¡Colabora conmigo!
-No dudes en explorar mis repositorios y contactarme para colaborar en proyectos o simplemente para hablar de tecnología.
+#### No dudes en explorar mis repositorios y contactarme para colaborar en proyectos o simplemente para hablar de tecnología.
 
 ---
 
