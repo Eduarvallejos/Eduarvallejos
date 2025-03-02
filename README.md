@@ -23,7 +23,7 @@
 ---
 
 ### 🌐 Mi página web:
-#### [Visita mi portafolio aquí](eduar-vallejos.up.railway.app)
+#### [Visita mi portafolio aquí](https://eduar-vallejos.up.railway.app)
 
 ---
 
